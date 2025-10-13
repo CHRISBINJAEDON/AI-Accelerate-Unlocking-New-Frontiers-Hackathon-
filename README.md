@@ -48,7 +48,7 @@ Smart Chrome AI Hub is a student-led platform that enables youth to build AI-pow
 ```bash
 # Clone the repository
 git clone https://github.com/your-username/smart-chrome-ai-hub.git
-cd smart-chrome-ai-hub
+cd smart-chrome-ai-hub](https://github.com/CHRISBINJAEDON/AI-Accelerate-Unlocking-New-Frontiers-Hackathon-.git)
 
 # Install dependencies
 npm install
