@@ -1,57 +1,110 @@
-# Samart Chrome AI hub
-Smart Chrome AI Hub is a student-built platform that enables youth to create AI-powered web apps and Chrome Extensions using Gemini Nano. It runs fully client-side for privacy, offline access, and sustainability—supporting multimodal input, multilingual tools, and SDG-aligned innovation.
-# 🌐 Smart Chrome AI Hub
+# Smart Resilience Hub: Predict. Protect. Empower.
 
-**Empowering Students, Privacy, and Sustainability with Client-Side AI**
-
-Built by: Chrisbin Liana, Chrisbin Jaedon, Johan Danieo R  
-Affiliation: Sacred Heart International School, Tamil Nadu, India  
-Grades: 11th, 8th, 7th Standard
+**Team Members:** Chrisbin Liana, Chrisbin Jaedon, Johan Danieo R  
+**Affiliation:** Sacred Heart International School, Tamil Nadu, India  
+**Grades:** 11th, 8th, 7th Standard  
+**Hackathon:** AI Accelerate: Unlocking New Frontiers  
+**Challenge Track:** Fivetran + Google Cloud
 
 ---
 
-## 🚀 Overview
+## 🌍 Inspiration
 
-Smart Chrome AI Hub is a student-led platform that enables youth to build AI-powered web applications and Chrome Extensions—without servers, without internet, and without compromising privacy. Powered by Gemini Nano and Chrome’s built-in AI APIs, the Hub delivers a future-ready, client-side solution aligned with key UN Sustainable Development Goals (SDGs).
+Across rural and underserved regions, communities face overlapping vulnerabilities—from human–animal conflict and health emergencies to agricultural instability and climate shocks. These challenges directly impact SDGs like:
 
----
+- 🥗 SDG 2: Zero Hunger  
+- 🏥 SDG 3: Good Health and Well-being  
+- 🌱 SDG 13: Climate Action  
+- 🐘 SDG 15: Life on Land  
 
-## 🌟 Features
-
-- 🗣️ **Multimodal Input**: Supports text, image, and audio via Prompt API  
-- 🔐 **Client-Side AI**: All processing happens locally for privacy and speed  
-- 🌐 **Multilingual Support**: Translator API enables global collaboration  
-- 📄 **Summarization & Rewriting**: Uses Summarizer and Rewriter APIs  
-- ✏️ **Grammar & Writing Tools**: Proofreader and Writer APIs included  
-- 📶 **Offline Access**: Works without internet for low-connectivity regions  
-- 🌱 **Sustainable Design**: No server costs, low carbon footprint
+We built Smart Resilience Hub to empower local governments, NGOs, and youth-led networks with real-time, privacy-conscious intelligence for faster, smarter decisions.
 
 ---
 
-## 🧰 Tech Stack
+## 🚀 What It Does
 
-- **Frontend**: React.js  
-- **AI Engine**: Gemini Nano (client-side)  
-- **Realtime Logic**: Firebase AI Logic  
-- **Chrome APIs Used**:
-  - Prompt API
-  - Translator API
-  - Summarizer API
-  - Rewriter API
-  - Writer API
-  - Proofreader API
+Smart Resilience Hub is a cloud-native platform that:
+
+- Ingests real-time data from IoT sensors, mobile apps, and community reports  
+- Uses a custom-built Fivetran connector to automate data movement into BigQuery  
+- Applies Vertex AI models to analyze patterns and generate actionable insights  
+- Delivers predictive alerts and agentic workflows via a real-time dashboard
+
+### Key Features
+
+- 🐾 Predictive alerts for human–animal conflict (SDG 15)  
+- 🏥 Health risk detection and intervention suggestions (SDG 3)  
+- 🌾 Agricultural resilience recommendations (SDG 2)  
+- 🧭 Agentic workflows for NGOs and local officials (SDG 11, SDG 13)
 
 ---
 
-## 🛠️ Setup Instructions
+## 🛠️ How We Built It
 
-```bash
-# Clone the repository
-git clone https://github.com/your-username/smart-chrome-ai-hub.git
-cd smart-chrome-ai-hub](https://github.com/CHRISBINJAEDON/AI-Accelerate-Unlocking-New-Frontiers-Hackathon-.git)
+- **Connector:** Fivetran Connector SDK in Python  
+- **Pipeline:** BigQuery ingestion with schema orchestration  
+- **AI Layer:** Vertex AI for classification and anomaly detection  
+- **Frontend:** React + Firebase  
+- **Backend:** Node.js with secure APIs and role-based access  
+- **Open Source:** MIT License with full documentation
 
-# Install dependencies
-npm install
+---
 
-# Start the development server
-npm start
+## 🧩 Challenges We Faced
+
+- Handling intermittent connectivity and non-standard formats  
+- Balancing real-time performance with cost-effective cloud usage  
+- Ensuring ethical data handling and privacy compliance  
+- Designing agentic workflows for non-technical users
+
+---
+
+## 🏅 Accomplishments
+
+- Built and deployed a production-ready Fivetran connector for rural IoT data  
+- Delivered a real-time AI dashboard with context-aware insights  
+- Created a scalable architecture for replication across SDG domains  
+- Maintained open-source transparency and ethical alignment
+
+---
+
+## 📚 What We Learned
+
+- Leveraging Fivetran SDK for complex data ingestion  
+- Deploying Vertex AI in low-bandwidth environments  
+- Designing inclusive UX for non-technical users  
+- Using community feedback to shape ethical tech outcomes
+
+---
+
+## 🔮 What's Next
+
+- Multilingual and voice input support (SDG 10)  
+- Blockchain integration for welfare tracking (SDG 16)  
+- Pilot deployment in Tamil Nadu with NGOs and local governments  
+- Open-source expansion across SDG domains  
+- Strategic partnerships with UN-aligned organizations
+
+---
+
+## 📽️ Demo Video
+
+Watch our 3-minute demo: [https://youtu.be/7do9IEBHcwQ](https://youtu.be/7do9IEBHcwQ)
+
+---
+
+## 📂 Repository Structure
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).  
+Feel free to fork, adapt, and deploy for community resilience and SDG innovation.
+
+---
+
+## 🤝 Contact
+
+For collaboration or questions, reach out via Devpost or GitHub Issues.  
+Let’s build resilient communities together!
