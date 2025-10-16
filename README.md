@@ -89,9 +89,16 @@ Smart Resilience Hub is a cloud-native platform that:
 
 ## 📽️ Demo Video
 
-Watch our 3-minute demo: [https://youtu.be/7do9IEBHcwQ](https://youtu.be/7do9IEBHcwQ)
+Watch our 3-minute demo: 
 
----
+Demo Link Caption:
+“This is our official demo video for Smart Resilience Hub, showcasing its architecture, features, and SDG impact.”
+https://youtu.be/wqNK9tvEdFM
+Try It Out Caption:
+“This video demonstrates a live feature of our platform — real-time environmental alerting using client-side AI and multimodal inputs.”
+https://youtu.be/j3lXH12fNAg
+
+
 
 ## 📂 Repository Structure
 
