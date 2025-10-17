@@ -85,11 +85,11 @@ Smart Resilience Hub is a cloud-native platform that:
 - Open-source expansion across SDG domains  
 - Strategic partnerships with UN-aligned organizations
 ## “Real-World Advocacy & Alignment”
-
+Zero Hun 3let mer.pdf
 # Step 4: Commit the change
 git commit -m "Add letter to President and G20 suggestions"
 
-📄 [Read my letter to the President and G20 suggestions](submissions/Zero_Hun_3let_mer.pdf)
+
 # Step 5: Push to GitHub
 git push origin main
 
