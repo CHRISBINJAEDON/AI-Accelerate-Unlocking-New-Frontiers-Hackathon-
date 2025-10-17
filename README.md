@@ -101,7 +101,7 @@ https://youtu.be/j3lXH12fNAg
 
 
 ## 📂 Repository Structure
-
+https://github.com/CHRISBINJAEDON/AI-Accelerate-Unlocking-New-Frontiers-Hackathon-.git
 ---
 
 ## 📄 License
