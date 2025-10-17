@@ -84,8 +84,21 @@ Smart Resilience Hub is a cloud-native platform that:
 - Pilot deployment in Tamil Nadu with NGOs and local governments  
 - Open-source expansion across SDG domains  
 - Strategic partnerships with UN-aligned organizations
+## “Real-World Advocacy & Alignment”
+# Step 1: Move your PDF into the repo folder
+mv /path/to/your/file.pdf /path/to/your/repo/
 
----
+# Step 2: Navigate to your repo
+cd /path/to/your/repo/
+
+# Step 3: Add the PDF to staging
+git add file.pdf
+
+# Step 4: Commit the change
+git commit -m "Add letter to President and G20 suggestions"
+📄 [Read my letter to the President and G20 suggestions](submissions/Zero_Hun_3let_mer.pdf)
+# Step 5: Push to GitHub
+git push origin main
 
 ## 📽️ Demo Video
 
