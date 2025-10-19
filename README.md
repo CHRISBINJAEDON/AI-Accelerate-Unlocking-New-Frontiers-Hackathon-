@@ -1,3 +1,8 @@
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).  
+Feel free to fork, adapt, and deploy for community resilience and SDG innovation.
+
 # Smart Resilience Hub: Predict. Protect. Empower.
 
 **Team Members:** Chrisbin Liana, Chrisbin Jaedon, Johan Danieo R  
