@@ -108,7 +108,7 @@ Demo Link Caption:
 https://youtu.be/wqNK9tvEdFM
 Try It Out Caption:
 “This video demonstrates a live feature of our platform — real-time environmental alerting using client-side AI and multimodal inputs.”
-https://youtu.be/j3lXH12fNAg
+https://youtu.be/Xr7gXrUQYQc
 
 
 
